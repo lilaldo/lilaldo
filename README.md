@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">DEVOPS ENGINEER STUDENT IN THE MAKING.</p>
+<p align="left">DEVOPS STUDENT IN THE MAKING.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<p align="left">Connect with me:</p>
 
 ###
 
@@ -31,20 +31,18 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
+
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lilaldo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  
   <img src="https://streak-stats.demolab.com?user=lilaldo&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/zirap_">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zirap_" alt="Spotify recently played"  />
-  </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=zirap_" alt="Spotify recently played"  />
 </div>
 
 ###

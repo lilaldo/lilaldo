@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">DEVOPS STUDENT IN THE MAKING.</p>
+<p align="left">DEVOPS ENGINEER STUDENT IN THE MAKING.</p>
 
 ###
 
